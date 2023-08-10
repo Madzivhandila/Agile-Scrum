@@ -3,12 +3,12 @@
 
 # Table of contents for my ReadMe.md file.
 
-      1.Introduction
-      2.Repositories for Each Project
-      3.Project and Repository Integration
-      4.Branching Strategy
-      5..gitignore
-      6.Storage of Credentials and Sensitive Information
+      1. Introduction
+      2. Repositories for Each Project
+      3. Project and Repository Integration
+      4. Branching Strategy
+      5. .gitignore
+      6. Storage of Credentials and Sensitive Information
       
 Welcome to the repository for the CMPG 323 Overview project. 
 This repository serves as a single point for managing CMPG 323 projects, assignments, and training. 

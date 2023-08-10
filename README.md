@@ -7,8 +7,9 @@ Important information on the structure of this repository, the branching process
 
 # The Structure of My Repository
 
-    Repository is set up to back various projects, each with their possess repository. The projects are organized into 
-    turning points, and the going with repositories are utilized to oversee each project's code, documentation, and assets.
+   For each project, I will create a separate repository. Each repository will contain all the necessary code, 
+   documentation, and resources specific to that project. This approach will helps me keep our work organized and focused.
+    My This Semester Projects Are:
     
     1. Project 1: CMPG 323 Overview(Agile & Scrum)
     2. Project 2: (API Development)
@@ -20,7 +21,10 @@ Important information on the structure of this repository, the branching process
       
      
 
-
+   The above diagram depicts the link between projects and repositories. Each project has its own repository, which allows 
+   us to separate project-specific work. This integration ensures that each project's modifications are contained within 
+   its repository.
+   
    # 1.Tabular View
       I used to representation all our tasks.
    # 2.Sprint View(board)
@@ -31,24 +35,24 @@ Important information on the structure of this repository, the branching process
       I used status view to representation of my tasks, grouped them by Status.
      
 # Tabular View Board
-   # I created Labels
-       -	Class
-       -	Project
-       -	Training
-       
-       Tabular View Board provides a table-based representation of our tasks. were it has fields like Milestone, Label, 
-       Linked 
-       Pull Request, and Repository. The field Assignees is covered up.
-       Under this Board thats were I included:
-       
-        -	All CMPG 323 classes
-        -	All CMPG 323 training time required to upskill and complete projects
-        -	All estimated tasks required to complete all CMPG 323 projects
-        -	All CMPG 323 project submissions (with deadlines attached to milestones)
-        -	All tasks associated to completing the CMPG 323 Portfolio of Evidence (POE)
+       # I created Labels
+           -	Class
+           -	Project
+           -	Training
+           
+           Tabular View Board provides a table-based representation of our tasks. were it has fields like Milestone, Label, 
+           Linked 
+           Pull Request, and Repository. The field Assignees is covered up.
+           Under this Board thats were I included:
+           
+            -	All CMPG 323 classes
+            -	All CMPG 323 training time required to upskill and complete projects
+            -	All estimated tasks required to complete all CMPG 323 projects
+            -	All CMPG 323 project submissions (with deadlines attached to milestones)
+            -	All tasks associated to completing the CMPG 323 Portfolio of Evidence (POE)
 
 # Sprint View(board)
-  Under this view I added all 8 of the sprints with sprint start and end date as folow: 
+    Under this board view I added all 8 of the sprints with sprint start and end date as folow: 
   
     -Start of classes + Sprint 1 (17 Jul - 28 Jul)
     -Sprint 2 (31 Jul - 11 Aug)  
@@ -60,31 +64,31 @@ Important information on the structure of this repository, the branching process
     -Sprint 8 (23 Oct - 3 Nov)
     
 # Linked Assessment View 
-      I used Linked Assessment View to 
+      I used Linked Assessment as it allows me to group and organize tasks based on their linked assessments.
+      I used this field to associate tasks with specific assessments related to the CMPG 323 course.
 # Status View(board)
       I used status view to representation of my tasks, grouped them by Status.
-# Structure of the Repository
-   
-   
-   -Project 1 repository is 
-   -Project 2 repository is 
-   -Project 3 repository is 
-   -Project 4 repository is 
-   -Project 5 repository is 
-   
+  
 # branching Strategy
 
-  To handle any changes, we'll utilize a branching strategy for each extend. Each venture repository's major branches will incorporate:
-
-    1.Primary branching Strategy
-      -The most branch, which speaks to the foremost later steady form.
-    2.The development branch 
-      -The department in which highlights are incorporated and tried some time recently being consolidated into the most department.
-    3.Branches of intrigued
-      -Planned for certain capacities or obligations. These branches are based on create and will be blended back in once the highlight is wrapped up.
+      To handle any changes, we'll utilize a branching strategy for each extend. Each venture repository's major 
+      branches will incorporate:
+    
+        1.Primary branching Strategy
+          -The most branch, which speaks to the foremost later steady form.
+        2.The development branch -The department in which highlights are incorporated and tried some time recently being 
+          consolidated into the most department.
+        3.Branches of intrigued -Planned for certain capacities or obligations. These branches are based on create and will 
+          be blended back in once the highlight is wrapped up.
 
  # Gitignore File
 
-  A gitignore file that Git store arrangement record that indicates which records and registries ought to be disregarded and not checked by adaptation control. It is 
-  utilized to channel out objects such as built doubles, logs, brief records, private information, IDE/editor-specific records, and other made records. The objective is to 
-  preserve the store clean, dodge the consideration of touchy fabric by mischance, and ensure that no unneeded records are committed.
+  A gitignore file that Git store arrangement record that indicates which records and registries ought to be disregarded 
+  and not checked by adaptation control. It is utilized to channel out objects such as built doubles, logs, brief
+  records, private information, IDE/editor-specific records, and other made records. The objective is to preserve the store 
+  clean, dodge the consideration of touchy fabric by mischance, and ensure that no unneeded records are committed.
+
+# Storage of Credentials and Sensitive
+
+    To protect sensitive data repository selected as private and I only be shared it with my lectures only . 
+    This practice ensures that sensitive information remains private and does not pose a security risk.

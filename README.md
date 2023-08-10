@@ -29,7 +29,7 @@ material may be found below.
   
 # Project and Repository Integration 
       
-     ![archie](https://github.com/Madzivhandila/CMPG-323-Overview---30332338/assets/75025282/1f50975c-a8a8-4aeb-9329-ae8b121b0719)
+    ![archie](https://github.com/Madzivhandila/CMPG-323-Overview---30332338/assets/75025282/6a15570c-e229-44f9-b3de-5eac2ff60d57)
 
 
    The above diagram depicts the link between projects and repositories. Each project has its own repository, which allows 

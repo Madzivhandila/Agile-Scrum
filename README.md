@@ -10,6 +10,11 @@ Important information on the structure of this repository, the branching process
 The main aim of this repository to support numerous projects, each with their own repository. 
 All Projects are organized into milestones, and the accompanying repositories are used to manage each project's code, documentation, and resources.
 
+1. Project 1: (Agile & Scrum)
+2. Project 2: (API Development)
+3. Project 3: (Design Standards & Patterns)
+4. Project 4: (Testing & RPA)
+5. Project 5: (Reporting & Monitoring)
   
 
       

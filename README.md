@@ -29,7 +29,8 @@ material may be found below.
   
 # Project and Repository Integration 
       
-     
+     ![archie](https://github.com/Madzivhandila/CMPG-323-Overview---30332338/assets/75025282/1f50975c-a8a8-4aeb-9329-ae8b121b0719)
+
 
    The above diagram depicts the link between projects and repositories. Each project has its own repository, which allows 
    us to separate project-specific work. This integration ensures that each project's modifications are contained within 

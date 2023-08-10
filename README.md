@@ -85,7 +85,16 @@ Important information on the structure of this repository, the branching process
             tasks.
          
 # Status View(board)
-      I used status view to representation of my tasks, grouped them by Status.
+       Status view provide an overview of tasks based on their status, which allows you to track the progress of work 
+       items in your projects.
+
+       Common column names you might find in a "Status View" include:
+
+       1. Backlog: Tasks that are planned but not yet started.
+       2. In Progress: Tasks currently being worked on.
+       3. Review: Tasks that are awaiting review.
+       4. Done: Completed tasks.
+       
   
 # branching Strategy
 

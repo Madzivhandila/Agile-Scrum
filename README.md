@@ -41,6 +41,7 @@ All Projects are organized into milestones, and the accompanying repositories ar
 # Tabular View board
    It provides a table-based representation of our tasks. were it has fields like Milestone, Label, Linked Pull Request, and Repository. The field Assignees is covered up.
    Under this Board thats were I included:
+   
     -	All CMPG 323 classes
     -	All CMPG 323 training time required to upskill and complete projects
     -	All estimated tasks required to complete all CMPG 323 projects
@@ -48,7 +49,17 @@ All Projects are organized into milestones, and the accompanying repositories ar
     -	All tasks associated to completing the CMPG 323 Portfolio of Evidence (POE)
 
 # Sprint View(board)
-      I used Sprint View to represent each and every task a start and end date.
+  Under this view I added all 8 of the sprints with sprint start and end date as folow: 
+  
+    -Start of classes + Sprint 1 (17 Jul - 28 Jul)
+    -Sprint 2 (31 Jul - 11 Aug)  
+    -Sprint 3 (14 Aug - 25 Aug)
+    -Sprint 4 (28 Aug - 8 Sept)
+    -Sprint 5 (11 Sept - 22 Sept)
+    -Sprint 6 (25 Sept - 6 Oct)
+    -Sprint 7 (9 Oct - 20 Oct)
+    
+    -Sprint 8 (23 Oct - 3 Nov)
 # Linked Assessment View 
       I used Linked Assessment View to 
 # Status View(board)

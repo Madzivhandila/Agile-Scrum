@@ -1,9 +1,19 @@
 ## CMPG-323-Overview---30332338.
-GitHub Repository Project1
+## CMPG-323-Overview---30332338 Repository Project1
 
+# Table of contents for my ReadMe.md file.
+
+      1.Introduction
+      2.Repositories for Each Project
+      3.Project and Repository Integration
+      4.Branching Strategy
+      5..gitignore
+      6.Storage of Credentials and Sensitive Information
+      
 Welcome to the repository for the CMPG 323 Overview project. 
 This repository serves as a single point for managing CMPG 323 projects, assignments, and training. 
-Important information on the structure of this repository, the branching process, and standards for safeguarding sensitive material may be found below.
+Important information on the structure of this repository, the branching process, and standards for safeguarding sensitive 
+material may be found below.
 
 # The Structure of My Repository
 
@@ -17,7 +27,7 @@ Important information on the structure of this repository, the branching process
     4. Project 4: (Testing & RPA)
     5. Project 5: (Reporting & Monitoring)
   
-# Project Diagram 
+# Project and Repository Integration 
       
      
 
@@ -99,7 +109,7 @@ Important information on the structure of this repository, the branching process
         3.Branches of intrigued -Planned for certain capacities or obligations. These branches are based on create and 
           will be blended back in once the highlight is wrapped up.
 
- # Gitignore File
+ # .Gitignore File
 
   A gitignore file that Git store arrangement record that indicates which records and registries ought to be disregarded 
   and not checked by adaptation control. It is utilized to channel out objects such as built doubles, logs, brief

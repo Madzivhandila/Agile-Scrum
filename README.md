@@ -92,7 +92,7 @@ material may be found below.
 
        Common column names you might find in a "Status View" include:
 
-       1. Backlog: Tasks that are planned but not yet started.
+       1. ToDo: Tasks that are planned but not yet started.
        2. In Progress: Tasks currently being worked on.
        3. Review: Tasks that are awaiting review.
        4. Done: Completed tasks.

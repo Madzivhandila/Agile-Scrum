@@ -10,8 +10,8 @@
       5. .gitignore
       6. Storage of Credentials and Sensitive Information
       
-Welcome to the repository for the CMPG 323 Overview project. 
-This repository serves as a single point for managing CMPG 323 projects, assignments, and training. 
+Welcome to the repository for my CMPG 323 Overview project1. 
+This repository serves as a single point for managing CMPG 323 projects, assignments, and trainings. 
 Important information on the structure of this repository, the branching process, and standards for safeguarding sensitive 
 material may be found below.
 

@@ -66,6 +66,24 @@ Important information on the structure of this repository, the branching process
 # Linked Assessment View 
       I used Linked Assessment as it allows me to group and organize tasks based on their linked assessments.
       I used this field to associate tasks with specific assessments related to the CMPG 323 course.
+      This can be extremely useful for tracking the progress of tasks associated with different assessments, ensuring that 
+      all required tasks for a particular assessment are completed, and having a clear overview of the work required for 
+      each assessment.
+
+      In this view, you might expect to see:
+
+         1. Tasks: Each task represents a specific piece of work that needs to be done. These tasks are related to a 
+            particular assessment, and the view groups them based on this association.
+         
+         2. Assessment Groups: The tasks will likely be grouped by the assessment they are linked to. This grouping 
+            provides a visual representation of which tasks are part of each assessment.
+         
+         3. Deadlines: If the assessments have deadlines, you might want to include them in this view to ensure that tasks 
+             are completed on time.
+         
+         4. Progress: You can track the progress of each assessment by looking at the completion status of the associated 
+            tasks.
+         
 # Status View(board)
       I used status view to representation of my tasks, grouped them by Status.
   

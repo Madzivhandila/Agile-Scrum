@@ -25,14 +25,6 @@ Important information on the structure of this repository, the branching process
    us to separate project-specific work. This integration ensures that each project's modifications are contained within 
    its repository.
    
-   # 1.Tabular View
-      I used to representation all our tasks.
-   # 2.Sprint View(board)
-      I used Sprint View to represent each and every task a start and end date.
-   # 3.Linked Assessment View 
-      I used Linked Assessment View to 
-   # 4.Status View(board)
-      I used status view to representation of my tasks, grouped them by Status.
      
 # Tabular View Board
        # I created Labels

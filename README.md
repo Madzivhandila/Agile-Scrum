@@ -36,8 +36,8 @@ material may be found below.
    its repository.
    
      
-# Tabular View Board
-       # I created Labels
+   -Tabular View Board
+          created Labels
            -	Class
            -	Project
            -	Training
@@ -53,7 +53,7 @@ material may be found below.
             -	All CMPG 323 project submissions (with deadlines attached to milestones)
             -	All tasks associated to completing the CMPG 323 Portfolio of Evidence (POE)
 
-# Sprint View(board)
+  -Sprint View(board)
           Under this board view I added all 8 of the sprints with sprint start and end date as folow: 
         
           -Start of classes + Sprint 1 (17 Jul - 28 Jul)
@@ -65,7 +65,7 @@ material may be found below.
           -Sprint 7 (9 Oct - 20 Oct)
           -Sprint 8 (23 Oct - 3 Nov)
     
-# Linked Assessment View 
+ -Linked Assessment View 
       I used Linked Assessment as it allows me to group and organize tasks based on their linked assessments.
       I used this field to associate tasks with specific assessments related to the CMPG 323 course.
       This can be extremely useful for tracking the progress of tasks associated with different assessments, ensuring that 
@@ -86,7 +86,7 @@ material may be found below.
          4. Progress: You can track the progress of each assessment by looking at the completion status of the associated 
             tasks.
          
-# Status View(board)
+ -Status View(board)
        Status view provide an overview of tasks based on their status, which allows you to track the progress of work 
        items in your projects.
 
